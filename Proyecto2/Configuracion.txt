@@ -1,0 +1,8 @@
+Ruta de la carpeta del servidor: ./Servidor/
+Ruta del archivo de clientes: ./Servidor/Usuarios.txt
+Ruta del archivo de catálogo: ./Servidor/Catalogo.txt
+Ruta de la carpeta de libros cifrados: ./Servidor/Libros/
+Ruta de la carpeta de libros originales: ./ArchivosOriginales/
+Ruta de la carpeta de libros descargados por usaruarios: ./Servidor/DescargaUsuarios/
+Ruta archivos de usarios y contraseñas originales: UsuariosContraseñas.txt
+

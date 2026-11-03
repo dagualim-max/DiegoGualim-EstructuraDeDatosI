@@ -1,0 +1,21 @@
+ISBN|Titulo
+A102|La metamorfosis
+K57B|El extranjero
+C903|La peste
+F28X|El proceso
+19OR|1984
+D604|Crimen y castigo
+S81A|El túnel
+W375|El retrato de Dorian Gray
+N620|Así habló Zaratustra
+M49Q|El mito de Sísifo
+H732|El lobo estepario
+R508|Siddhartha
+B16K|El corazón de las tinieblas
+T824|La náusea
+P305|El príncipe
+L97C|Los hermanos Karamázov
+V461|Fahrenheit 451
+E208|El viejo y el mar
+G63Y|Memorias del subsuelo
+J514|Pedro Páramo

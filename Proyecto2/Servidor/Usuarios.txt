@@ -1,0 +1,9 @@
+Usuario|hash|boolean_premium
+Byron|4|1
+Sara|9|1
+Andres|7|0
+Max|4|1
+Antonio|0|0
+David|0|1
+Ele|6|0
+Pablo|6|0
